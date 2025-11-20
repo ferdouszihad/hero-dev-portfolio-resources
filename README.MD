@@ -49,7 +49,7 @@ A well-groomed professional woman wearing a burkha and hijab, standing confident
 ### **Hero Section**
 - Large heading introducing the developer.
 - Sub-text paragraph describing expertise.
-- Two buttons: **Get Started** and **Watch Demo**.
+- Two buttons: **Explore Works** and **Download CV**.
 - Right-side image of the developer.
 - Clean background pattern (optional decorative shapes/icons).
 
