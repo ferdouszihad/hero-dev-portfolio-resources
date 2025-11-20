@@ -1,5 +1,5 @@
 # Hero-Dev Portfolio Landing Page
-
+<img src="PH-Logo-Dark.png" width="300px">
 A clean, modern, responsive landing page designed to showcase a front-end developer's skills, projects, and experience.  
 This project will be built **only with HTML & CSS**, without any frameworks or JavaScript.
 
